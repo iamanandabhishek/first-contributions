@@ -103,7 +103,7 @@
 - [Arjun Vijaykumar]
 - [Pranjal Gore](https://github.com/jalispran)
 - Sakchi17
-Renjith Joseph
+- Renjith Joseph
 - [Keerti Bajaj](https://github.com/keertibajaj)
 - [Kovidh Vengala](https://github.com/kovidh208/)
 - [Rohit Geddam](https://github.com/rohitgeddam)
@@ -118,7 +118,7 @@ Renjith Joseph
 - [Atharv Singh Patlan](https://github.com/AthaSSiN)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Christian Preis](https://github.com/n8trufe)
-- [Taras Rumezhak] (https://github.com/tarasrumezhak)
+- [Taras Rumezhak](https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
 - [Jayant Khandelwal](https://github.com/Jackent2B)
 - [Anshu Jalan](https://github.com/AnshuJalan)
@@ -144,7 +144,7 @@ Renjith Joseph
 - [Numnumchips](https://github.com/Numnumchips)
 - [Mario Olofsson][https://github.com/meetmario)]
 - [Sanghamitra Biswas](https://github.com/sangy987)
-- [Enrique Galindo] (https://github.com/EnriqueGalindo)
+- [Enrique Galindo](https://github.com/EnriqueGalindo)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [daveedavee]
